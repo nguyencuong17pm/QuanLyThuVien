@@ -1,0 +1,49 @@
+D:\LapTrinhQuanLy\QLTV\DAO\bin\Debug\DAO.dll
+D:\LapTrinhQuanLy\QLTV\DAO\bin\Debug\DAO.pdb
+D:\LapTrinhQuanLy\QLTV\DAO\bin\Debug\DTO.dll
+D:\LapTrinhQuanLy\QLTV\DAO\bin\Debug\DTO.pdb
+D:\LapTrinhQuanLy\QLTV\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\LapTrinhQuanLy\QLTV\DAO\obj\Debug\DAO.dll
+D:\LapTrinhQuanLy\QLTV\DAO\obj\Debug\DAO.pdb
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\DAO\bin\Debug\DAO.dll
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\DAO\bin\Debug\DAO.pdb
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\DAO\bin\Debug\DTO.dll
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\DAO\bin\Debug\DTO.pdb
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\DAO\obj\Debug\DAO.dll
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\DAO\obj\Debug\DAO.pdb
+D:\QLTV\DAO\bin\Debug\DAO.dll
+D:\QLTV\DAO\bin\Debug\DAO.pdb
+D:\QLTV\DAO\bin\Debug\DTO.dll
+D:\QLTV\DAO\bin\Debug\DTO.pdb
+D:\QLTV\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\QLTV\DAO\obj\Debug\DAO.dll
+D:\QLTV\DAO\obj\Debug\DAO.pdb
+C:\Users\Administrator\Desktop\QLTV\DAO\bin\Debug\DAO.dll
+C:\Users\Administrator\Desktop\QLTV\DAO\bin\Debug\DAO.pdb
+C:\Users\Administrator\Desktop\QLTV\DAO\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\QLTV\DAO\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\QLTV\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\QLTV\DAO\obj\Debug\DAO.dll
+C:\Users\Administrator\Desktop\QLTV\DAO\obj\Debug\DAO.pdb
+D:\Doan_DBMS\QLTV\DAO\bin\Debug\DAO.dll
+D:\Doan_DBMS\QLTV\DAO\bin\Debug\DAO.pdb
+D:\Doan_DBMS\QLTV\DAO\bin\Debug\DTO.dll
+D:\Doan_DBMS\QLTV\DAO\bin\Debug\DTO.pdb
+D:\Doan_DBMS\QLTV\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Doan_DBMS\QLTV\DAO\obj\Debug\DAO.dll
+D:\Doan_DBMS\QLTV\DAO\obj\Debug\DAO.pdb
+D:\ThietKePhanMem\QLTV V2.3\QLTV\DAO\bin\Debug\DAO.dll
+D:\ThietKePhanMem\QLTV V2.3\QLTV\DAO\bin\Debug\DAO.pdb
+D:\ThietKePhanMem\QLTV V2.3\QLTV\DAO\bin\Debug\DTO.dll
+D:\ThietKePhanMem\QLTV V2.3\QLTV\DAO\bin\Debug\DTO.pdb
+D:\ThietKePhanMem\QLTV V2.3\QLTV\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\ThietKePhanMem\QLTV V2.3\QLTV\DAO\obj\Debug\DAO.dll
+D:\ThietKePhanMem\QLTV V2.3\QLTV\DAO\obj\Debug\DAO.pdb
+D:\Doan_DBMS\QLTV V2.0\QLTV\DAO\bin\Debug\DAO.dll
+D:\Doan_DBMS\QLTV V2.0\QLTV\DAO\bin\Debug\DAO.pdb
+D:\Doan_DBMS\QLTV V2.0\QLTV\DAO\bin\Debug\DTO.dll
+D:\Doan_DBMS\QLTV V2.0\QLTV\DAO\bin\Debug\DTO.pdb
+D:\Doan_DBMS\QLTV V2.0\QLTV\DAO\obj\Debug\DAO.csprojResolveAssemblyReference.cache
+D:\Doan_DBMS\QLTV V2.0\QLTV\DAO\obj\Debug\DAO.dll
+D:\Doan_DBMS\QLTV V2.0\QLTV\DAO\obj\Debug\DAO.pdb

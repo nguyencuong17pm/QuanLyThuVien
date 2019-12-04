@@ -1,0 +1,626 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DD1ADC78-56A0-4672-9846-2BEB2DF66ADB}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>GUI</RootNamespace>
+    <AssemblyName>GUI</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v16.1, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Map.v16.1.Core, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v16.1.Core, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v16.1.Core, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v16.1, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraBars.v16.1, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v16.1, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v16.1, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v16.1, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraMap.v16.1, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v16.1, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v16.1, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraTreeList.v16.1, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraWizard.v16.1, Version=16.1.2.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=14.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\..\..\HKI-nam_3\THỰC HÀNH DB2\DB2_Buoi04\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ReportViewer.Common, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91" />
+    <Reference Include="Microsoft.ReportViewer.WinForms, Version=11.0.0.0, Culture=neutral, PublicKeyToken=89845dcd8080cc91, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutBox1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutBox1.Designer.cs">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Conect\conect.cs" />
+    <Compile Include="frmBanDoc.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBanDoc.Designer.cs">
+      <DependentUpon>frmBanDoc.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBCMuonTra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBCMuonTra.Designer.cs">
+      <DependentUpon>frmBCMuonTra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmBCSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmBCSach.Designer.cs">
+      <DependentUpon>frmBCSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmCTMuonTra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmCTMuonTra.Designer.cs">
+      <DependentUpon>frmCTMuonTra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDangNhap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDangNhap.Designer.cs">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmDoiMatKhau.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmDoiMatKhau.Designer.cs">
+      <DependentUpon>frmDoiMatKhau.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMain.Designer.cs">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMuonSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMuonSach.Designer.cs">
+      <DependentUpon>frmMuonSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmMuonTra.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmMuonTra.Designer.cs">
+      <DependentUpon>frmMuonTra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNhanVien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNhanVien.Designer.cs">
+      <DependentUpon>frmNhanVien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmNhaXuatBan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmNhaXuatBan.Designer.cs">
+      <DependentUpon>frmNhaXuatBan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmSach.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmSach.Designer.cs">
+      <DependentUpon>frmSach.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTaiKhoan.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTaiKhoan.Designer.cs">
+      <DependentUpon>frmTaiKhoan.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTheLoai.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTheLoai.Designer.cs">
+      <DependentUpon>frmTheLoai.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TheLoai_DTO.cs" />
+    <EmbeddedResource Include="AboutBox1.resx">
+      <DependentUpon>AboutBox1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBanDoc.resx">
+      <DependentUpon>frmBanDoc.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBCMuonTra.resx">
+      <DependentUpon>frmBCMuonTra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmBCSach.resx">
+      <DependentUpon>frmBCSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmCTMuonTra.resx">
+      <DependentUpon>frmCTMuonTra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDangNhap.resx">
+      <DependentUpon>frmDangNhap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmDoiMatKhau.resx">
+      <DependentUpon>frmDoiMatKhau.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMain.resx">
+      <DependentUpon>frmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMuonSach.resx">
+      <DependentUpon>frmMuonSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmMuonTra.resx">
+      <DependentUpon>frmMuonTra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNhanVien.resx">
+      <DependentUpon>frmNhanVien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmNhaXuatBan.resx">
+      <DependentUpon>frmNhaXuatBan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmSach.resx">
+      <DependentUpon>frmSach.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTaiKhoan.resx">
+      <DependentUpon>frmTaiKhoan.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTheLoai.resx">
+      <DependentUpon>frmTheLoai.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="rpChiTiet.rdlc" />
+    <EmbeddedResource Include="rpSach.rdlc" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\DataSources\DTO.CTMuonTra_DTO.datasource" />
+    <None Include="Properties\DataSources\DTO.NhanVien_DTO.datasource" />
+    <None Include="Properties\DataSources\DTO.SachMuon_DTO.datasource" />
+    <None Include="Properties\DataSources\DTO.Sach_DTO.datasource" />
+    <None Include="Properties\DataSources\DTO.Theloai_DTO.datasource" />
+    <None Include="Properties\DataSources\DTO.TheThuVien_DTO.datasource" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\BUS\BUS.csproj">
+      <Project>{432f1636-0c96-4574-8110-f6980b394891}</Project>
+      <Name>BUS</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\DTO\DTO.csproj">
+      <Project>{e5f6909a-ac6a-4cb8-a56e-9672cfd1bbe6}</Project>
+      <Name>DTO</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_address-book_299084.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Save_1493294.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usermanager32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_49_3319596.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_edit-clear_118917.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_10_3319601.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_address-book_2990841.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_bookcase_1228.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keys321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\2157dbf6250e330.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usermanager321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_10_33196011.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_twitter_718986.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_x-office-address-book_118894.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_bookcase_12281.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\keys32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Help_Circle_Blue_342251.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_exit_3226.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\exit16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ffffffffffffffffffff.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\usermanager3211.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_10_33196012.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\the-nhan-dien-kiem-soat-vao-ra-thu-vien.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cv1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_twitter_7189861.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_x-office-address-book_1188941.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\help16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_bookcase_12282.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_10_33196013.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\key161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_edit-find-replace_118921.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_user_namecard_1902266.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_58_Cross_Circle_Remove_Delete_1864217.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_preferences-system-login_24276.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_exit_32261.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_user_namecard_19022661.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Student-3_379383.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_41_3319603.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_41_33196031.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_note_1_1296369.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_41_33196032.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_note_1_12963691.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\a1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Student-3_3793831.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_41_33196033.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_1_41688.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Edit_1891026.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_1_416881.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_58_Cross_Circle_Remove_Delete_18642171.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_edit-undo_118755.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_logo_brand_brands_logos_excel_2993694.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vay von tai chinh.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vay von tai chinh1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\11.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\book321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\users32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_change_password_63985.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\vay von tai chinh2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1057faf9e89c50a.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logout161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_preferences-desktop-font_24255.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_preferences-desktop-font_24255 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Asset_76_3298592.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Asset_76_32985921.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_lock_safe_password_protected_2992203.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_lock_safe_password_protected_29922031.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Asset_76_32985922.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_preferences-desktop-font_24255 %281%291.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Security_Security_Protection_Computer_Password_Privacy_3876151.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\d8d5f1160e3f9425fe4ace2b582b49ea.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_camera-photo_118846.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_255_Photo_logo_4375038.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_camera-photo_118846 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_camera-photo_118846 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Camera_2376771.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Camera_2376771 %282%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Camera_2376771 %283%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Camera_23767711.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_camera_1646008.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_camera_16460081.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_edit-clear_1189171.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\13.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\22.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\4.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\6.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_8_330406.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Estate_home_house_building_property_real_1886940.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Plus_206460.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Plus_2064601.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Artboard_1_1790655.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Artboard_1_17906551.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_document-save-as_118915.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_document-save-as_118915 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_1_416882.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dddd.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Edit_18910261.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_icon-57_667370.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_icons-12_799766.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Online-Shopping_379432.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Online-Shopping_379432 %281%29.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\QuiDinh.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_58_Cross_Circle_Remove_Delete_18642172.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\dddd1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_printer_43702.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Print_27870.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Artboard_1_17906552.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Online-Shopping_3794321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_icons-12_7997661.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_icon-57_6673701.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_category-2_54388.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_category-2_543881.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\iconfinder_Student-3_3793832.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

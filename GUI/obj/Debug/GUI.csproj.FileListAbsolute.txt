@@ -1,0 +1,391 @@
+E:\GUI\GUI\bin\Debug\GUI.exe.config
+E:\QLTV\GUI\bin\Debug\GUI.exe.config
+D:\LapTrinhQuanLy\QLTV\GUI\bin\Debug\GUI.exe.config
+D:\LapTrinhQuanLy\QLTV\GUI\bin\Debug\GUI.exe
+D:\LapTrinhQuanLy\QLTV\GUI\bin\Debug\GUI.pdb
+D:\LapTrinhQuanLy\QLTV\GUI\bin\Debug\BUS.dll
+D:\LapTrinhQuanLy\QLTV\GUI\bin\Debug\DTO.dll
+D:\LapTrinhQuanLy\QLTV\GUI\bin\Debug\DAO.dll
+D:\LapTrinhQuanLy\QLTV\GUI\bin\Debug\BUS.pdb
+D:\LapTrinhQuanLy\QLTV\GUI\bin\Debug\DTO.pdb
+D:\LapTrinhQuanLy\QLTV\GUI\bin\Debug\DAO.pdb
+D:\LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.exe
+D:\LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.pdb
+D:\LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmSach.resources
+D:\LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.exe.licenses
+D:\LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmTheThuVien.resources
+D:\LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmSachMuon.resources
+D:\LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+D:\LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmMain.resources
+D:\LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmNhaXuatBan.resources
+D:\LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmTheLoai.resources
+D:\LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmBCSachMuon.resources
+D:\LapTrinhQuanLy\QLTV\GUI\obj\Debug\RdlCompile.cache
+D:\LapTrinhQuanLy\QLTV\GUI\obj\Debug\RdlCompile.compiled
+D:\LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmBCTheThuVien.resources
+D:\LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmGhiLichSu.resources
+D:\LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmBCSach.resources
+D:\LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmBCNhanVien.resources
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\bin\Debug\GUI.exe.config
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.exe
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.pdb
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\bin\Debug\GUI.exe
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\bin\Debug\GUI.pdb
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\bin\Debug\BUS.dll
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\bin\Debug\DTO.dll
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\bin\Debug\DAO.dll
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\bin\Debug\BUS.pdb
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\bin\Debug\DTO.pdb
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\bin\Debug\DAO.pdb
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmBCNhanVien.resources
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmBCSach.resources
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmBCSachMuon.resources
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmBCTheThuVien.resources
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmGhiLichSu.resources
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmMain.resources
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmNhaXuatBan.resources
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmSach.resources
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmSachMuon.resources
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmTheLoai.resources
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.frmTheThuVien.resources
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\obj\Debug\GUI.exe.licenses
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\obj\Debug\RdlCompile.cache
+D:\Doan_LapTrinhQuanLy\QLTV\GUI\obj\Debug\RdlCompile.compiled
+D:\Do_An_Huongdoituong\QLTV\GUI\bin\Debug\GUI.exe.config
+D:\Do_An_Huongdoituong\QLTV\GUI\obj\Debug\GUI.exe
+D:\Do_An_Huongdoituong\QLTV\GUI\obj\Debug\GUI.pdb
+D:\Do_An_Huongdoituong\QLTV\GUI\bin\Debug\GUI.exe
+D:\Do_An_Huongdoituong\QLTV\GUI\bin\Debug\GUI.pdb
+D:\Do_An_Huongdoituong\QLTV\GUI\bin\Debug\BUS.dll
+D:\Do_An_Huongdoituong\QLTV\GUI\bin\Debug\DTO.dll
+D:\Do_An_Huongdoituong\QLTV\GUI\bin\Debug\DAO.dll
+D:\Do_An_Huongdoituong\QLTV\GUI\bin\Debug\BUS.pdb
+D:\Do_An_Huongdoituong\QLTV\GUI\bin\Debug\DTO.pdb
+D:\Do_An_Huongdoituong\QLTV\GUI\bin\Debug\DAO.pdb
+D:\Do_An_Huongdoituong\QLTV\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Do_An_Huongdoituong\QLTV\GUI\obj\Debug\GUI.frmBCNhanVien.resources
+D:\Do_An_Huongdoituong\QLTV\GUI\obj\Debug\GUI.frmBCSach.resources
+D:\Do_An_Huongdoituong\QLTV\GUI\obj\Debug\GUI.frmBCSachMuon.resources
+D:\Do_An_Huongdoituong\QLTV\GUI\obj\Debug\GUI.frmBCTheThuVien.resources
+D:\Do_An_Huongdoituong\QLTV\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\Do_An_Huongdoituong\QLTV\GUI\obj\Debug\GUI.frmGhiLichSu.resources
+D:\Do_An_Huongdoituong\QLTV\GUI\obj\Debug\GUI.frmMain.resources
+D:\Do_An_Huongdoituong\QLTV\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\Do_An_Huongdoituong\QLTV\GUI\obj\Debug\GUI.frmNhaXuatBan.resources
+D:\Do_An_Huongdoituong\QLTV\GUI\obj\Debug\GUI.frmSach.resources
+D:\Do_An_Huongdoituong\QLTV\GUI\obj\Debug\GUI.frmSachMuon.resources
+D:\Do_An_Huongdoituong\QLTV\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+D:\Do_An_Huongdoituong\QLTV\GUI\obj\Debug\GUI.frmTheLoai.resources
+D:\Do_An_Huongdoituong\QLTV\GUI\obj\Debug\GUI.frmTheThuVien.resources
+D:\Do_An_Huongdoituong\QLTV\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Do_An_Huongdoituong\QLTV\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Do_An_Huongdoituong\QLTV\GUI\obj\Debug\GUI.exe.licenses
+D:\Do_An_Huongdoituong\QLTV\GUI\obj\Debug\RdlCompile.cache
+D:\Do_An_Huongdoituong\QLTV\GUI\obj\Debug\RdlCompile.compiled
+D:\Pttk_phan_mem_huong_doi_tuong\QLTV\GUI\bin\Debug\GUI.exe.config
+D:\Pttk_phan_mem_huong_doi_tuong\QLTV\GUI\obj\Debug\GUI.exe
+D:\Pttk_phan_mem_huong_doi_tuong\QLTV\GUI\obj\Debug\GUI.pdb
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\bin\Debug\GUI.exe.config
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\obj\Debug\GUI.exe
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\obj\Debug\GUI.pdb
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\bin\Debug\GUI.exe
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\bin\Debug\GUI.pdb
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\bin\Debug\BUS.dll
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\bin\Debug\DTO.dll
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\bin\Debug\DAO.dll
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\bin\Debug\BUS.pdb
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\bin\Debug\DTO.pdb
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\bin\Debug\DAO.pdb
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\obj\Debug\GUI.frmBCNhanVien.resources
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\obj\Debug\GUI.frmBCSach.resources
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\obj\Debug\GUI.frmGhiLichSu.resources
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\obj\Debug\GUI.frmMain.resources
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\obj\Debug\GUI.frmNhaXuatBan.resources
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\obj\Debug\GUI.frmSach.resources
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\obj\Debug\GUI.frmTheLoai.resources
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\obj\Debug\GUI.frmTheThuVien.resources
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\obj\Debug\GUI.exe.licenses
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\obj\Debug\RdlCompile.cache
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\obj\Debug\RdlCompile.compiled
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\obj\Debug\GUI.frmDocGia.resources
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\obj\Debug\GUI.frmPhieuMuon.resources
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\GUI\obj\Debug\GUI.frmPhieuTra.resources
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\bin\Debug\GUI.exe.config
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\obj\Debug\GUI.exe
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\obj\Debug\GUI.pdb
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\bin\Debug\GUI.exe
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\bin\Debug\GUI.pdb
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\bin\Debug\BUS.dll
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\bin\Debug\DTO.dll
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\bin\Debug\DAO.dll
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\bin\Debug\BUS.pdb
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\bin\Debug\DTO.pdb
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\bin\Debug\DAO.pdb
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\obj\Debug\GUI.frmBCNhanVien.resources
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\obj\Debug\GUI.frmBCSach.resources
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\obj\Debug\GUI.frmDocGia.resources
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\obj\Debug\GUI.frmGhiLichSu.resources
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\obj\Debug\GUI.frmMain.resources
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\obj\Debug\GUI.frmNhaXuatBan.resources
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\obj\Debug\GUI.frmPhieuMuon.resources
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\obj\Debug\GUI.frmPhieuTra.resources
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\obj\Debug\GUI.frmSach.resources
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\obj\Debug\GUI.frmTheLoai.resources
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\obj\Debug\GUI.frmTheThuVien.resources
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\obj\Debug\GUI.exe.licenses
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\obj\Debug\RdlCompile.cache
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\obj\Debug\RdlCompile.compiled
+D:\Phân tích yêu cầu phần mềm\QLTV\GUI\obj\Debug\GUI.frmMuonSach.resources
+D:\PhanTichYeuCauPM\QLTV\GUI\bin\Debug\GUI.exe.config
+D:\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\GUI.exe
+D:\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\GUI.pdb
+D:\PhanTichYeuCauPM\QLTV\GUI\bin\Debug\GUI.exe
+D:\PhanTichYeuCauPM\QLTV\GUI\bin\Debug\GUI.pdb
+D:\PhanTichYeuCauPM\QLTV\GUI\bin\Debug\BUS.dll
+D:\PhanTichYeuCauPM\QLTV\GUI\bin\Debug\DTO.dll
+D:\PhanTichYeuCauPM\QLTV\GUI\bin\Debug\DAO.dll
+D:\PhanTichYeuCauPM\QLTV\GUI\bin\Debug\BUS.pdb
+D:\PhanTichYeuCauPM\QLTV\GUI\bin\Debug\DTO.pdb
+D:\PhanTichYeuCauPM\QLTV\GUI\bin\Debug\DAO.pdb
+D:\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\GUI.frmBCNhanVien.resources
+D:\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\GUI.frmBCSach.resources
+D:\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\GUI.frmDocGia.resources
+D:\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\GUI.frmGhiLichSu.resources
+D:\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\GUI.frmMain.resources
+D:\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\GUI.frmMuonSach.resources
+D:\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\GUI.frmNhaXuatBan.resources
+D:\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\GUI.frmPhieuMuon.resources
+D:\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\GUI.frmPhieuTra.resources
+D:\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\GUI.frmSach.resources
+D:\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+D:\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\GUI.frmTheLoai.resources
+D:\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\GUI.frmTheThuVien.resources
+D:\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\GUI.exe.licenses
+D:\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\RdlCompile.cache
+D:\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\RdlCompile.compiled
+D:\HKII_nam_3\PhanTichYeuCauPM\QLTV\GUI\bin\Debug\GUI.exe.config
+D:\HKII_nam_3\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\GUI.exe
+D:\HKII_nam_3\PhanTichYeuCauPM\QLTV\GUI\obj\Debug\GUI.pdb
+D:\QLTV\GUI\bin\Debug\GUI.exe.config
+D:\QLTV\GUI\obj\Debug\GUI.exe
+D:\QLTV\GUI\obj\Debug\GUI.pdb
+D:\QLTV\GUI\bin\Debug\GUI.exe
+D:\QLTV\GUI\bin\Debug\GUI.pdb
+D:\QLTV\GUI\bin\Debug\BUS.dll
+D:\QLTV\GUI\bin\Debug\DTO.dll
+D:\QLTV\GUI\bin\Debug\DAO.dll
+D:\QLTV\GUI\bin\Debug\BUS.pdb
+D:\QLTV\GUI\bin\Debug\DTO.pdb
+D:\QLTV\GUI\bin\Debug\DAO.pdb
+D:\QLTV\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\QLTV\GUI\obj\Debug\GUI.frmBCNhanVien.resources
+D:\QLTV\GUI\obj\Debug\GUI.frmBCSach.resources
+D:\QLTV\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\QLTV\GUI\obj\Debug\GUI.frmDocGia.resources
+D:\QLTV\GUI\obj\Debug\GUI.frmMain.resources
+D:\QLTV\GUI\obj\Debug\GUI.frmMuonSach.resources
+D:\QLTV\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\QLTV\GUI\obj\Debug\GUI.frmNhaXuatBan.resources
+D:\QLTV\GUI\obj\Debug\GUI.frmPhieuMuon.resources
+D:\QLTV\GUI\obj\Debug\GUI.frmPhieuTra.resources
+D:\QLTV\GUI\obj\Debug\GUI.frmSach.resources
+D:\QLTV\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+D:\QLTV\GUI\obj\Debug\GUI.frmTheLoai.resources
+D:\QLTV\GUI\obj\Debug\GUI.frmTheThuVien.resources
+D:\QLTV\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\QLTV\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\QLTV\GUI\obj\Debug\GUI.exe.licenses
+D:\QLTV\GUI\obj\Debug\RdlCompile.cache
+D:\QLTV\GUI\obj\Debug\RdlCompile.compiled
+D:\QLTV\GUI\obj\Debug\GUI.frmDoiMatKhau.resources
+D:\QLTV\GUI\obj\Debug\GUI.frmBanDoc.resources
+C:\Users\Administrator\Desktop\QLTV\GUI\bin\Debug\GUI.exe.config
+C:\Users\Administrator\Desktop\QLTV\GUI\obj\Debug\GUI.exe
+C:\Users\Administrator\Desktop\QLTV\GUI\obj\Debug\GUI.pdb
+C:\Users\Administrator\Desktop\QLTV\GUI\bin\Debug\GUI.exe
+C:\Users\Administrator\Desktop\QLTV\GUI\bin\Debug\GUI.pdb
+C:\Users\Administrator\Desktop\QLTV\GUI\bin\Debug\BUS.dll
+C:\Users\Administrator\Desktop\QLTV\GUI\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\QLTV\GUI\bin\Debug\DAO.dll
+C:\Users\Administrator\Desktop\QLTV\GUI\bin\Debug\BUS.pdb
+C:\Users\Administrator\Desktop\QLTV\GUI\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\QLTV\GUI\bin\Debug\DAO.pdb
+C:\Users\Administrator\Desktop\QLTV\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\QLTV\GUI\obj\Debug\GUI.frmBanDoc.resources
+C:\Users\Administrator\Desktop\QLTV\GUI\obj\Debug\GUI.frmBCNhanVien.resources
+C:\Users\Administrator\Desktop\QLTV\GUI\obj\Debug\GUI.frmBCSach.resources
+C:\Users\Administrator\Desktop\QLTV\GUI\obj\Debug\GUI.frmDangNhap.resources
+C:\Users\Administrator\Desktop\QLTV\GUI\obj\Debug\GUI.frmDoiMatKhau.resources
+C:\Users\Administrator\Desktop\QLTV\GUI\obj\Debug\GUI.frmMain.resources
+C:\Users\Administrator\Desktop\QLTV\GUI\obj\Debug\GUI.frmMuonSach.resources
+C:\Users\Administrator\Desktop\QLTV\GUI\obj\Debug\GUI.frmNhanVien.resources
+C:\Users\Administrator\Desktop\QLTV\GUI\obj\Debug\GUI.frmNhaXuatBan.resources
+C:\Users\Administrator\Desktop\QLTV\GUI\obj\Debug\GUI.frmPhieuMuon.resources
+C:\Users\Administrator\Desktop\QLTV\GUI\obj\Debug\GUI.frmPhieuTra.resources
+C:\Users\Administrator\Desktop\QLTV\GUI\obj\Debug\GUI.frmSach.resources
+C:\Users\Administrator\Desktop\QLTV\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+C:\Users\Administrator\Desktop\QLTV\GUI\obj\Debug\GUI.frmTheLoai.resources
+C:\Users\Administrator\Desktop\QLTV\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\Administrator\Desktop\QLTV\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\QLTV\GUI\obj\Debug\GUI.exe.licenses
+C:\Users\Administrator\Desktop\QLTV\GUI\obj\Debug\RdlCompile.cache
+C:\Users\Administrator\Desktop\QLTV\GUI\obj\Debug\RdlCompile.compiled
+C:\Users\Administrator\Desktop\QLTV\GUI\obj\Debug\GUI.AboutBox1.resources
+D:\Doan_DBMS\QLTV\GUI\bin\Debug\GUI.exe.config
+D:\Doan_DBMS\QLTV\GUI\obj\Debug\GUI.exe
+D:\Doan_DBMS\QLTV\GUI\obj\Debug\GUI.pdb
+D:\Doan_DBMS\QLTV\GUI\bin\Debug\GUI.exe
+D:\Doan_DBMS\QLTV\GUI\bin\Debug\GUI.pdb
+D:\Doan_DBMS\QLTV\GUI\bin\Debug\BUS.dll
+D:\Doan_DBMS\QLTV\GUI\bin\Debug\DTO.dll
+D:\Doan_DBMS\QLTV\GUI\bin\Debug\DAO.dll
+D:\Doan_DBMS\QLTV\GUI\bin\Debug\BUS.pdb
+D:\Doan_DBMS\QLTV\GUI\bin\Debug\DTO.pdb
+D:\Doan_DBMS\QLTV\GUI\bin\Debug\DAO.pdb
+D:\Doan_DBMS\QLTV\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Doan_DBMS\QLTV\GUI\obj\Debug\GUI.AboutBox1.resources
+D:\Doan_DBMS\QLTV\GUI\obj\Debug\GUI.frmBanDoc.resources
+D:\Doan_DBMS\QLTV\GUI\obj\Debug\GUI.frmBCSach.resources
+D:\Doan_DBMS\QLTV\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\Doan_DBMS\QLTV\GUI\obj\Debug\GUI.frmDoiMatKhau.resources
+D:\Doan_DBMS\QLTV\GUI\obj\Debug\GUI.frmMain.resources
+D:\Doan_DBMS\QLTV\GUI\obj\Debug\GUI.frmMuonSach.resources
+D:\Doan_DBMS\QLTV\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\Doan_DBMS\QLTV\GUI\obj\Debug\GUI.frmNhaXuatBan.resources
+D:\Doan_DBMS\QLTV\GUI\obj\Debug\GUI.frmPhieuMuon.resources
+D:\Doan_DBMS\QLTV\GUI\obj\Debug\GUI.frmPhieuTra.resources
+D:\Doan_DBMS\QLTV\GUI\obj\Debug\GUI.frmSach.resources
+D:\Doan_DBMS\QLTV\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+D:\Doan_DBMS\QLTV\GUI\obj\Debug\GUI.frmTheLoai.resources
+D:\Doan_DBMS\QLTV\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Doan_DBMS\QLTV\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Doan_DBMS\QLTV\GUI\obj\Debug\GUI.exe.licenses
+D:\Doan_DBMS\QLTV\GUI\obj\Debug\RdlCompile.cache
+D:\Doan_DBMS\QLTV\GUI\obj\Debug\RdlCompile.compiled
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\bin\Debug\GUI.exe.config
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\obj\Debug\GUI.exe
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\obj\Debug\GUI.pdb
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\obj\Debug\GUI.AboutBox1.resources
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\obj\Debug\GUI.frmBanDoc.resources
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\obj\Debug\GUI.frmBCSach.resources
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\obj\Debug\GUI.frmDoiMatKhau.resources
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\obj\Debug\GUI.frmMain.resources
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\obj\Debug\GUI.frmMuonSach.resources
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\obj\Debug\GUI.frmMuonTra.resources
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\obj\Debug\GUI.frmNhaXuatBan.resources
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\obj\Debug\GUI.frmSach.resources
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\obj\Debug\GUI.frmTheLoai.resources
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\obj\Debug\GUI.exe.licenses
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\obj\Debug\RdlCompile.cache
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\obj\Debug\RdlCompile.compiled
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\bin\Debug\GUI.exe
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\bin\Debug\GUI.pdb
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\bin\Debug\BUS.dll
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\bin\Debug\DTO.dll
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\bin\Debug\DAO.dll
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\bin\Debug\BUS.pdb
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\bin\Debug\DTO.pdb
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\bin\Debug\DAO.pdb
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\obj\Debug\GUI.frmCTMuonTra.resources
+D:\ThietKePhanMem\QLTV V2.3\QLTV\GUI\obj\Debug\GUI.frmBCMuonTra.resources
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\bin\Debug\GUI.exe.config
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\obj\Debug\GUI.exe
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\obj\Debug\GUI.pdb
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\bin\Debug\GUI.exe
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\bin\Debug\GUI.pdb
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\bin\Debug\BUS.dll
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\bin\Debug\DTO.dll
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\bin\Debug\DAO.dll
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\bin\Debug\BUS.pdb
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\bin\Debug\DTO.pdb
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\bin\Debug\DAO.pdb
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\obj\Debug\GUI.AboutBox1.resources
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\obj\Debug\GUI.frmBanDoc.resources
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\obj\Debug\GUI.frmBCMuonTra.resources
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\obj\Debug\GUI.frmBCSach.resources
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\obj\Debug\GUI.frmCTMuonTra.resources
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\obj\Debug\GUI.frmDoiMatKhau.resources
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\obj\Debug\GUI.frmMain.resources
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\obj\Debug\GUI.frmMuonSach.resources
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\obj\Debug\GUI.frmMuonTra.resources
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\obj\Debug\GUI.frmNhaXuatBan.resources
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\obj\Debug\GUI.frmSach.resources
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\obj\Debug\GUI.frmTheLoai.resources
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\obj\Debug\GUI.exe.licenses
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\obj\Debug\RdlCompile.cache
+D:\Doan_DBMS\QLTV V2.0\QLTV\GUI\obj\Debug\RdlCompile.compiled
+D:\Doan_DBMS\QLTV\DEMO\GUI\bin\Debug\GUI.exe.config
+D:\Doan_DBMS\QLTV\DEMO\GUI\obj\Debug\GUI.exe
+D:\Doan_DBMS\QLTV\DEMO\GUI\obj\Debug\GUI.pdb
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\bin\Debug\GUI.exe.config
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\obj\Debug\GUI.exe
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\obj\Debug\GUI.pdb
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\bin\Debug\GUI.exe
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\bin\Debug\GUI.pdb
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\bin\Debug\BUS.dll
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\bin\Debug\DTO.dll
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\bin\Debug\DAO.dll
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\bin\Debug\BUS.pdb
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\bin\Debug\DTO.pdb
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\bin\Debug\DAO.pdb
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\obj\Debug\GUI.AboutBox1.resources
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\obj\Debug\GUI.frmBanDoc.resources
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\obj\Debug\GUI.frmBCMuonTra.resources
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\obj\Debug\GUI.frmBCSach.resources
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\obj\Debug\GUI.frmCTMuonTra.resources
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\obj\Debug\GUI.frmDangNhap.resources
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\obj\Debug\GUI.frmDoiMatKhau.resources
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\obj\Debug\GUI.frmMain.resources
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\obj\Debug\GUI.frmMuonSach.resources
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\obj\Debug\GUI.frmMuonTra.resources
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\obj\Debug\GUI.frmNhanVien.resources
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\obj\Debug\GUI.frmNhaXuatBan.resources
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\obj\Debug\GUI.frmSach.resources
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\obj\Debug\GUI.frmTaiKhoan.resources
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\obj\Debug\GUI.frmTheLoai.resources
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\obj\Debug\GUI.Properties.Resources.resources
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\obj\Debug\GUI.exe.licenses
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\obj\Debug\RdlCompile.cache
+D:\Doan_DBMS\Do_An V2.0\DEMO\GUI\obj\Debug\RdlCompile.compiled

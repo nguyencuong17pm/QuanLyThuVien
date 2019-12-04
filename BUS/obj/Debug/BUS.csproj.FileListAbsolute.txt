@@ -1,0 +1,63 @@
+D:\LapTrinhQuanLy\QLTV\BUS\bin\Debug\BUS.dll
+D:\LapTrinhQuanLy\QLTV\BUS\bin\Debug\BUS.pdb
+D:\LapTrinhQuanLy\QLTV\BUS\bin\Debug\DAO.dll
+D:\LapTrinhQuanLy\QLTV\BUS\bin\Debug\DTO.dll
+D:\LapTrinhQuanLy\QLTV\BUS\bin\Debug\DAO.pdb
+D:\LapTrinhQuanLy\QLTV\BUS\bin\Debug\DTO.pdb
+D:\LapTrinhQuanLy\QLTV\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\LapTrinhQuanLy\QLTV\BUS\obj\Debug\BUS.dll
+D:\LapTrinhQuanLy\QLTV\BUS\obj\Debug\BUS.pdb
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\BUS\bin\Debug\BUS.dll
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\BUS\bin\Debug\BUS.pdb
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\BUS\bin\Debug\DAO.dll
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\BUS\bin\Debug\DTO.dll
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\BUS\bin\Debug\DAO.pdb
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\BUS\bin\Debug\DTO.pdb
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\BUS\obj\Debug\BUS.dll
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\BUS\obj\Debug\BUS.pdb
+D:\QLTV\BUS\bin\Debug\BUS.dll
+D:\QLTV\BUS\bin\Debug\BUS.pdb
+D:\QLTV\BUS\bin\Debug\DAO.dll
+D:\QLTV\BUS\bin\Debug\DTO.dll
+D:\QLTV\BUS\bin\Debug\DAO.pdb
+D:\QLTV\BUS\bin\Debug\DTO.pdb
+D:\QLTV\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\QLTV\BUS\obj\Debug\BUS.dll
+D:\QLTV\BUS\obj\Debug\BUS.pdb
+C:\Users\Administrator\Desktop\QLTV\BUS\bin\Debug\BUS.dll
+C:\Users\Administrator\Desktop\QLTV\BUS\bin\Debug\BUS.pdb
+C:\Users\Administrator\Desktop\QLTV\BUS\bin\Debug\DAO.dll
+C:\Users\Administrator\Desktop\QLTV\BUS\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\QLTV\BUS\bin\Debug\DAO.pdb
+C:\Users\Administrator\Desktop\QLTV\BUS\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\QLTV\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\QLTV\BUS\obj\Debug\BUS.dll
+C:\Users\Administrator\Desktop\QLTV\BUS\obj\Debug\BUS.pdb
+D:\Doan_DBMS\QLTV\BUS\bin\Debug\BUS.dll
+D:\Doan_DBMS\QLTV\BUS\bin\Debug\BUS.pdb
+D:\Doan_DBMS\QLTV\BUS\bin\Debug\DAO.dll
+D:\Doan_DBMS\QLTV\BUS\bin\Debug\DTO.dll
+D:\Doan_DBMS\QLTV\BUS\bin\Debug\DAO.pdb
+D:\Doan_DBMS\QLTV\BUS\bin\Debug\DTO.pdb
+D:\Doan_DBMS\QLTV\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Doan_DBMS\QLTV\BUS\obj\Debug\BUS.dll
+D:\Doan_DBMS\QLTV\BUS\obj\Debug\BUS.pdb
+D:\ThietKePhanMem\QLTV V2.3\QLTV\BUS\bin\Debug\BUS.dll
+D:\ThietKePhanMem\QLTV V2.3\QLTV\BUS\bin\Debug\BUS.pdb
+D:\ThietKePhanMem\QLTV V2.3\QLTV\BUS\bin\Debug\DAO.dll
+D:\ThietKePhanMem\QLTV V2.3\QLTV\BUS\bin\Debug\DTO.dll
+D:\ThietKePhanMem\QLTV V2.3\QLTV\BUS\bin\Debug\DAO.pdb
+D:\ThietKePhanMem\QLTV V2.3\QLTV\BUS\bin\Debug\DTO.pdb
+D:\ThietKePhanMem\QLTV V2.3\QLTV\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\ThietKePhanMem\QLTV V2.3\QLTV\BUS\obj\Debug\BUS.dll
+D:\ThietKePhanMem\QLTV V2.3\QLTV\BUS\obj\Debug\BUS.pdb
+D:\Doan_DBMS\QLTV V2.0\QLTV\BUS\bin\Debug\BUS.dll
+D:\Doan_DBMS\QLTV V2.0\QLTV\BUS\bin\Debug\BUS.pdb
+D:\Doan_DBMS\QLTV V2.0\QLTV\BUS\bin\Debug\DAO.dll
+D:\Doan_DBMS\QLTV V2.0\QLTV\BUS\bin\Debug\DTO.dll
+D:\Doan_DBMS\QLTV V2.0\QLTV\BUS\bin\Debug\DAO.pdb
+D:\Doan_DBMS\QLTV V2.0\QLTV\BUS\bin\Debug\DTO.pdb
+D:\Doan_DBMS\QLTV V2.0\QLTV\BUS\obj\Debug\BUS.csprojResolveAssemblyReference.cache
+D:\Doan_DBMS\QLTV V2.0\QLTV\BUS\obj\Debug\BUS.dll
+D:\Doan_DBMS\QLTV V2.0\QLTV\BUS\obj\Debug\BUS.pdb

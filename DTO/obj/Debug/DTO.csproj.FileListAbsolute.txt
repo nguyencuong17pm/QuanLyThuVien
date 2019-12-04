@@ -1,0 +1,30 @@
+D:\LapTrinhQuanLy\QLTV\DTO\bin\Debug\DTO.dll
+D:\LapTrinhQuanLy\QLTV\DTO\bin\Debug\DTO.pdb
+D:\LapTrinhQuanLy\QLTV\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\LapTrinhQuanLy\QLTV\DTO\obj\Debug\DTO.dll
+D:\LapTrinhQuanLy\QLTV\DTO\obj\Debug\DTO.pdb
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\DTO\bin\Debug\DTO.dll
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\DTO\bin\Debug\DTO.pdb
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\DTO\obj\Debug\DTO.dll
+D:\Pttk_phan_mem_huong_doi_tuong\PhatTrienThem\QLTV\DTO\obj\Debug\DTO.pdb
+D:\QLTV\DTO\bin\Debug\DTO.dll
+D:\QLTV\DTO\bin\Debug\DTO.pdb
+D:\QLTV\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\QLTV\DTO\obj\Debug\DTO.dll
+D:\QLTV\DTO\obj\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\QLTV\DTO\bin\Debug\DTO.dll
+C:\Users\Administrator\Desktop\QLTV\DTO\bin\Debug\DTO.pdb
+C:\Users\Administrator\Desktop\QLTV\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\QLTV\DTO\obj\Debug\DTO.dll
+C:\Users\Administrator\Desktop\QLTV\DTO\obj\Debug\DTO.pdb
+D:\ThietKePhanMem\QLTV V2.3\QLTV\DTO\bin\Debug\DTO.dll
+D:\ThietKePhanMem\QLTV V2.3\QLTV\DTO\bin\Debug\DTO.pdb
+D:\ThietKePhanMem\QLTV V2.3\QLTV\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\ThietKePhanMem\QLTV V2.3\QLTV\DTO\obj\Debug\DTO.dll
+D:\ThietKePhanMem\QLTV V2.3\QLTV\DTO\obj\Debug\DTO.pdb
+D:\Doan_DBMS\QLTV V2.0\QLTV\DTO\bin\Debug\DTO.dll
+D:\Doan_DBMS\QLTV V2.0\QLTV\DTO\bin\Debug\DTO.pdb
+D:\Doan_DBMS\QLTV V2.0\QLTV\DTO\obj\Debug\DTO.csprojResolveAssemblyReference.cache
+D:\Doan_DBMS\QLTV V2.0\QLTV\DTO\obj\Debug\DTO.dll
+D:\Doan_DBMS\QLTV V2.0\QLTV\DTO\obj\Debug\DTO.pdb
